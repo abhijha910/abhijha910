@@ -28,10 +28,10 @@
 🔹 [Job Portal (MERN Stack)](https://github.com/abhijha910/Job-Portal-Main)  
 A full-stack job application portal that allows companies to register, verify via email, post jobs, and send email updates to candidates. Built with React, Node.js, Express, and MongoDB.
 
-🔹 [CloudFlex – Product Listing Interface](https://github.com/abhijha910/Product_Listing_Assignment_Abhyanand_Jha)  
+🔹 [Product Listing Interface](https://github.com/abhijha910/Product_Listing_Assignment_Abhyanand_Jha)  
 A responsive product listing UI built using Next.js, React, and Tailwind CSS with clean, minimal design.
 
-🔹 [Personalized Itinerary Generator](https://github.com/abhijha910/Personalized-Itinerary-Generator-1)  
+🔹 [Personalized Itinerary Generator](https://github.com/abhijha910/Personalized-Itinerary-Generator)  
 Generates a customized travel itinerary based on user preferences using React and external APIs.
 
 🔹 [Weather Monitoring System](https://github.com/abhijha910/Weather-Monitoring-System)  
