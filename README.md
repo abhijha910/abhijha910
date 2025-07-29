@@ -19,16 +19,26 @@
 
 ## 🔨 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,mongodb,tailwind,git,github,figma)
+![My Skills](https://skillicons.dev/icons?i=java,c,python,html,css,js,react,nodejs,express,mongodb,tailwind,git,github,figma)
 
 ---
 
 ## 🚀 Projects
 
+🔹 [Job Portal (MERN Stack)](https://github.com/abhijha910/Job-Portal-Main)  
+A full-stack job application portal that allows companies to register, verify via email, post jobs, and send email updates to candidates. Built with React, Node.js, Express, and MongoDB.
+
+🔹 [CloudFlex – Product Listing Interface](https://github.com/abhijha910/Product_Listing_Assignment_Abhyanand_Jha)  
+A responsive product listing UI built using Next.js, React, and Tailwind CSS with clean, minimal design.
+
 🔹 [Personalized Itinerary Generator](https://github.com/abhijha910/Personalized-Itinerary-Generator-1)  
-🔹 [Product Listing Interface](https://github.com/abhijha910/Product_Listing_Assignment_Abhyanand_Jha)  
+Generates a customized travel itinerary based on user preferences using React and external APIs.
+
 🔹 [Weather Monitoring System](https://github.com/abhijha910/Weather-Monitoring-System)  
+A weather data dashboard using real-time API integration for live temperature and forecast display.
+
 🔹 [Snake Game (Java)](https://github.com/abhijha910/SnakeGame-Java)  
+A classic Snake game built using Java and Swing for practicing basic OOP and game logic.
 
 ---
 
