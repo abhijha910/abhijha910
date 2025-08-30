@@ -37,7 +37,7 @@ Generates a customized travel itinerary based on user preferences using React an
 🔹 [Weather Monitoring System](https://github.com/abhijha910/Weather-Monitoring-System)  
 A weather data dashboard using real-time API integration for live temperature and forecast display.
 
-🔹 [Snake Game (Java)](https://github.com/abhijha910/SnakeGame-Java)  
+🔹 [Snake Game (Java)](https://github.com/abhijha910/Snake-Game-)  
 A classic Snake game built using Java and Swing for practicing basic OOP and game logic.
 
 ---
