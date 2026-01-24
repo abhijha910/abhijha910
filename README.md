@@ -251,22 +251,22 @@ A classic Snake game built using Java and Swing for practicing basic OOP and gam
 
 <div align="center">
 
+<!-- Snake animation - will appear once you have contributions -->
 ![Snake animation](https://raw.githubusercontent.com/abhijha910/abhijha910/output/github-contribution-grid-snake.svg)
 
 </div>
 
-<div align="center">
+**Why you see purple squares:**
+- The snake animation file exists but is empty
+- This happens when you don't have enough GitHub contributions yet
+- The snake needs contribution data (commits, PRs, issues) to generate
 
-**Alternative Snake (if above doesn't work):**
+**To fix this:**
+1. Make some commits in any repository
+2. The workflow will regenerate the snake automatically
+3. Or wait - it updates daily at midnight UTC
 
-![Snake animation](https://github.com/abhijha910/abhijha910/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-**Note:** The snake animation updates daily. If you don't see it:
-- Make sure you have GitHub contributions (commits, PRs, issues)
-- Check that the workflow ran successfully in Actions tab
-- The snake needs at least some contribution activity to generate
+**Your contribution activity is needed for the snake to appear!**
 
 ### 📊 Detailed Activity
 
