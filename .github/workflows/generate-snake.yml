@@ -10,7 +10,7 @@ on:
       - main
 
 permissions:
-  contents: write
+  contents: write  # Required to push to output branch
 
 jobs:
   generate:
