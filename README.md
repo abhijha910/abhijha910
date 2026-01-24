@@ -13,7 +13,7 @@
 
 <div align="center">
   
-![Visitor Count](https://profile-counter.glitch.me/abhijha910/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=abhijha910&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
 
 ![GitHub followers](https://img.shields.io/github/followers/abhijha910?style=social&label=Follow)
 ![GitHub stars](https://img.shields.io/github/stars/abhijha910?style=social&label=Stars)
@@ -237,7 +237,7 @@ A classic Snake game built using Java and Swing for practicing basic OOP and gam
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=abhijha910&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4&margin-h=8)
+![trophy](https://github-profile-trophy.vercel.app/?username=abhijha910&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&margin-h=8)
 
 </div>
 
@@ -251,24 +251,11 @@ A classic Snake game built using Java and Swing for practicing basic OOP and gam
 
 <div align="center">
 
-<!-- Snake animation - will appear once you have contributions -->
 ![Snake animation](https://raw.githubusercontent.com/abhijha910/abhijha910/output/github-contribution-grid-snake.svg)
 
 </div>
 
-**Why you see purple squares:**
-- The snake animation file exists but is empty
-- This happens when you don't have enough GitHub contributions yet
-- The snake needs contribution data (commits, PRs, issues) to generate
-
-**To fix this:**
-1. Make some commits in any repository
-2. The workflow will regenerate the snake automatically
-3. Or wait - it updates daily at midnight UTC
-
-**Your contribution activity is needed for the snake to appear!**
-
-### 📊 Detailed Activity
+### 📊 Animated Contribution Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhijha910&theme=tokyo-night&hide_border=true&area=true&color=00D9FF&line=00D9FF&point=00D9FF&bg_color=0D1117)
 
