@@ -249,7 +249,13 @@ A classic Snake game built using Java and Swing for practicing basic OOP and gam
 
 ### 🐍 Snake Eating My Contributions
 
-![Snake animation](https://abhijha910.github.io/abhijha910/github-contribution-grid-snake.svg)
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/abhijha910/abhijha910/output/github-contribution-grid-snake.svg)
+
+</div>
+
+**Note:** The snake animation updates daily. If you don't see it, make sure you have GitHub contributions and the workflow has run successfully.
 
 ### 📊 Detailed Activity
 
@@ -283,18 +289,6 @@ _I'm always ready to learn, build, and grow in tech! 🚀_
 
 ![GitHub followers](https://img.shields.io/github/followers/abhijha910?label=Followers&style=for-the-badge&color=00D9FF&labelColor=black)
 ![GitHub stars](https://img.shields.io/github/stars/abhijha910?label=Total%20Stars&style=for-the-badge&color=00D9FF&labelColor=black)
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Snake Eating My Contributions
-
-![Snake animation](https://abhijha910.github.io/abhijha910/github-contribution-grid-snake.svg)
-
-**Note:** The snake animation will appear after setting up the GitHub Action (see setup instructions)
 
 </div>
 
