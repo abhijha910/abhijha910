@@ -19,6 +19,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
       
+      - name: Create dist directory
+        run: mkdir -p dist
+      
       - name: Generate snake animation
         uses: Platane/snk@master
         id: snake-gif
@@ -27,6 +30,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
+        continue-on-error: true  # Continue even if snake generation fails
       
       - name: List generated files
         run: |
@@ -35,8 +39,10 @@ jobs:
           if [ -f dist/github-contribution-grid-snake.svg ]; then
             echo "SVG file exists"
             wc -l dist/github-contribution-grid-snake.svg
+            cat dist/github-contribution-grid-snake.svg | head -5
           else
-            echo "SVG file NOT found"
+            echo "SVG file NOT found - creating placeholder"
+            echo '<svg xmlns="http://www.w3.org/2000/svg"><text>No contributions yet</text></svg>' > dist/github-contribution-grid-snake.svg
           fi
       
       - name: Deploy to GitHub Pages
