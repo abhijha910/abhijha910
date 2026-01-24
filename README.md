@@ -255,7 +255,18 @@ A classic Snake game built using Java and Swing for practicing basic OOP and gam
 
 </div>
 
-**Note:** The snake animation updates daily. If you don't see it, make sure you have GitHub contributions and the workflow has run successfully.
+<div align="center">
+
+**Alternative Snake (if above doesn't work):**
+
+![Snake animation](https://github.com/abhijha910/abhijha910/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+**Note:** The snake animation updates daily. If you don't see it:
+- Make sure you have GitHub contributions (commits, PRs, issues)
+- Check that the workflow ran successfully in Actions tab
+- The snake needs at least some contribution activity to generate
 
 ### 📊 Detailed Activity
 
