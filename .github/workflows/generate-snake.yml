@@ -24,10 +24,20 @@ jobs:
         id: snake-gif
         with:
           github_user_name: abhijha910
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          color_snake: '#00D9FF'
-          color_dots: '#00D9FF'
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.gif
+      
+      - name: List generated files
+        run: |
+          echo "Checking generated files..."
+          ls -la dist/ || echo "dist directory not found"
+          if [ -f dist/github-contribution-grid-snake.svg ]; then
+            echo "SVG file exists"
+            wc -l dist/github-contribution-grid-snake.svg
+          else
+            echo "SVG file NOT found"
+          fi
       
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
