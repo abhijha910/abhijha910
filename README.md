@@ -26,8 +26,6 @@
 
 ## 💡 About Me
 
-<div align="center">
-
 ```python
 class AbhyanandJha:
     def __init__(self):
@@ -60,8 +58,6 @@ class AbhyanandJha:
     def motto(self):
         return "Always ready to learn, build, and grow in tech! 🚀"
 ```
-
-</div>
 
 <div align="center">
 
