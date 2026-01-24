@@ -233,14 +233,6 @@ A classic Snake game built using Java and Swing for practicing basic OOP and gam
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=abhijha910&theme=tokyonight)
-
-</div>
-
 ---
 
 ## 📈 Contribution Graph
@@ -256,14 +248,6 @@ A classic Snake game built using Java and Swing for practicing basic OOP and gam
 <div align="center">
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=abhijha910&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&include_all_commits=true&count_private=true)
-
-</div>
-
-### 🐍 Snake Eating My Contributions
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/abhijha910/abhijha910/output/github-contribution-grid-snake.svg)
 
 </div>
 
