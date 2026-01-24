@@ -9,6 +9,9 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write  # Required to push to output branch
+
 jobs:
   generate:
     runs-on: ubuntu-latest
