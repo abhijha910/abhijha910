@@ -237,7 +237,7 @@ A classic Snake game built using Java and Swing for practicing basic OOP and gam
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=abhijha910&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&margin-h=8)
+![trophy](https://github-profile-trophy.vercel.app/?username=abhijha910&theme=tokyonight)
 
 </div>
 
@@ -247,6 +247,18 @@ A classic Snake game built using Java and Swing for practicing basic OOP and gam
 
 <div align="center">
 
+### 🎯 Animated Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhijha910&theme=tokyo-night&hide_border=true&area=true&color=00D9FF&line=00D9FF&point=00D9FF&bg_color=0D1117&animation=true&duration=0.5)
+
+### 📊 Contribution Overview
+
+<div align="center">
+
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=abhijha910&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&include_all_commits=true&count_private=true)
+
+</div>
+
 ### 🐍 Snake Eating My Contributions
 
 <div align="center">
@@ -254,10 +266,6 @@ A classic Snake game built using Java and Swing for practicing basic OOP and gam
 ![Snake animation](https://raw.githubusercontent.com/abhijha910/abhijha910/output/github-contribution-grid-snake.svg)
 
 </div>
-
-### 📊 Animated Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhijha910&theme=tokyo-night&hide_border=true&area=true&color=00D9FF&line=00D9FF&point=00D9FF&bg_color=0D1117)
 
 </div>
 
