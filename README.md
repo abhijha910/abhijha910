@@ -5,11 +5,20 @@
 ### 🎓 B.Tech in Computer Science & Engineering  
 ### 💼 Software Developer | Java | Python | React | Salesforce  
 ### 🌱 Currently learning: Backend Development & Cloud  
-### 📍 From Saharsa, Bihar | Based in India
+### 📍 From Bangalore, Karnataka | Based in India
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=Passionate+Developer;Full-Stack+Enthusiast;Always+Learning+%26+Building;Open+Source+Contributor" alt="Typing SVG" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Solutions;Creating+Amazing+Experiences;Turning+Ideas+Into+Reality)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Solutions;Creating+Amazing+Experiences;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+
+<div align="center">
+  
+![Visitor Count](https://profile-counter.glitch.me/abhijha910/count.svg)
+
+![GitHub followers](https://img.shields.io/github/followers/abhijha910?style=social&label=Follow)
+![GitHub stars](https://img.shields.io/github/stars/abhijha910?style=social&label=Stars)
+
+</div>
 
 ---
 
@@ -81,6 +90,21 @@ class AbhyanandJha:
 ### 📚 Currently Learning
 
 ![Learning](https://skillicons.dev/icons?i=kubernetes,nextjs,typescript,graphql)
+
+### 🎨 Animated Tech Icons
+
+<div align="center">
+  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=black)
+
+</div>
 
 </div>
 
@@ -179,13 +203,31 @@ A classic Snake game built using Java and Swing for practicing basic OOP and gam
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijha910&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&icon_color=00D9FF&title_color=00D9FF)
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijha910&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&icon_color=00D9FF&title_color=00D9FF&bg_color=0D1117&text_color=ffffff)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=abhijha910&theme=tokyonight&hide_border=false&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=00D9FF&sideLabels=00D9FF)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijha910&layout=compact&theme=tokyonight&hide_border=false&title_color=00D9FF&text_color=00D9FF)
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=abhijha910&theme=tokyonight&hide_border=false&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=00D9FF&sideLabels=00D9FF&background=0D1117)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhijha910&theme=tokyo-night&hide_border=true&area=true&color=00D9FF&line=00D9FF&point=00D9FF)
+</div>
+
+<div align="center">
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijha910&layout=compact&theme=tokyonight&hide_border=false&title_color=00D9FF&text_color=00D9FF&bg_color=0D1117)
+
+</div>
+
+### 📊 Additional Stats
+
+<div align="center">
+  
+![GitHub commit activity](https://github-readme-activity-graph.vercel.app/graph?username=abhijha910&theme=tokyo-night&hide_border=true&area=true&color=00D9FF&line=00D9FF&point=00D9FF&bg_color=0D1117)
+
+</div>
 
 </div>
 
@@ -195,7 +237,7 @@ A classic Snake game built using Java and Swing for practicing basic OOP and gam
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=abhijha910&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=abhijha910&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4&margin-h=8)
 
 </div>
 
@@ -205,7 +247,13 @@ A classic Snake game built using Java and Swing for practicing basic OOP and gam
 
 <div align="center">
 
-![Snake animation](https://github.com/abhijha910/abhijha910/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Snake Eating My Contributions
+
+![Snake animation](https://raw.githubusercontent.com/abhijha910/abhijha910/output/github-contribution-grid-snake.svg)
+
+### 📊 Detailed Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhijha910&theme=tokyo-night&hide_border=true&area=true&color=00D9FF&line=00D9FF&point=00D9FF&bg_color=0D1117)
 
 </div>
 
@@ -229,11 +277,26 @@ A classic Snake game built using Java and Swing for practicing basic OOP and gam
 ### ⚡ Fun Fact
 _I'm always ready to learn, build, and grow in tech! 🚀_
 
+<div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=abhijha910&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+![GitHub followers](https://img.shields.io/github/followers/abhijha910?label=Followers&style=for-the-badge&color=00D9FF&labelColor=black)
+![GitHub stars](https://img.shields.io/github/stars/abhijha910?label=Total%20Stars&style=for-the-badge&color=00D9FF&labelColor=black)
+
+</div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/abhijha910/abhijha910/output/github-contribution-grid-snake.gif" alt="snake gif" />
+<div align="center">
+
+### 🐍 Snake Eating My Contributions
+
+![Snake animation](https://raw.githubusercontent.com/abhijha910/abhijha910/output/github-contribution-grid-snake.svg)
+
+**Note:** The snake animation will appear after setting up the GitHub Action (see setup instructions)
+
+</div>
 
 ---
 
