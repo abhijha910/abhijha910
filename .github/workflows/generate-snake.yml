@@ -10,7 +10,7 @@ on:
       - main
 
 permissions:
-  contents: write  # Required to push to output branch
+  contents: write
 
 jobs:
   generate:
@@ -26,6 +26,8 @@ jobs:
           github_user_name: abhijha910
           svg_out_path: dist/github-contribution-grid-snake.svg
           gif_out_path: dist/github-contribution-grid-snake.gif
+          color_snake: '#00D9FF'
+          color_dots: '#00D9FF'
       
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
