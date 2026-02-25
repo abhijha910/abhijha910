@@ -31,7 +31,7 @@ class AbhyanandJha:
     def __init__(self):
         self.name = "Abhyanand Jha"
         self.role = "Software Developer"
-        self.location = "Saharsa, Bihar, India"
+        self.location = "Bangalore, Karnataka, India"
         self.education = "B.Tech in Computer Science & Engineering"
         self.current_learning = ["Backend Development", "Cloud Technologies"]
         
