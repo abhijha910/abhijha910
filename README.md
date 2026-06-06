@@ -122,7 +122,7 @@ class AbhyanandJha:
 
 ### 🔹 AI Life Admin Assistant
 
-![Private Project](https://img.shields.io/badge/Private_Project-FF6B6B?style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/abhijha910/ai-life-admin)
 
 A production-ready AI-powered personal productivity platform that processes emails and documents, extracts tasks, predicts schedules, and generates personalized daily action plans.
 
