@@ -182,25 +182,30 @@ A full-stack job portal aggregating Government and Private sector opportunities 
 
 <div align="center">
 
-### 📈 GitHub Stats
+### 📈 GitHub Statistics
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijha910&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&icon_color=00D9FF&title_color=00D9FF&bg_color=0D1117&text_color=ffffff)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhijha910&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-</div>
-
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com?user=abhijha910&theme=tokyonight&hide_border=false&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=00D9FF&sideLabels=00D9FF&background=0D1117)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijha910&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijha910&layout=compact&theme=tokyonight&hide_border=false&title_color=00D9FF&text_color=00D9FF&bg_color=0D1117)
+
+### 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=abhijha910&theme=tokyonight"/>
 
 </div>
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhijha910&theme=tokyonight&row=1&column=6"/>
+
+</div>
+
 
 ### 📊 Additional Stats
 
@@ -212,7 +217,17 @@ A full-stack job portal aggregating Government and Private sector opportunities 
 
 </div>
 
----
+## 📈 Coding Activity
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=abhijha910\&label=Profile%20Views\&color=0e75b6\&style=for-the-badge)
+
+![Followers](https://img.shields.io/github/followers/abhijha910?label=Followers\&style=for-the-badge)
+
+![Stars](https://img.shields.io/github/stars/abhijha910?affiliations=OWNER%2CCOLLABORATOR\&style=for-the-badge)
+
+</div>
 
 ---
 
