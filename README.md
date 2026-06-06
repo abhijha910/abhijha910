@@ -122,6 +122,8 @@ class AbhyanandJha:
 
 ### 🔹 AI Life Admin Assistant
 
+![Private Project](https://img.shields.io/badge/Private_Project-FF6B6B?style=for-the-badge)
+
 A production-ready AI-powered personal productivity platform that processes emails and documents, extracts tasks, predicts schedules, and generates personalized daily action plans.
 
 **Tech Stack:** FastAPI, React, PostgreSQL, Redis, Ollama, spaCy, Docker
@@ -137,6 +139,8 @@ A production-ready AI-powered personal productivity platform that processes emai
 <td width="50%" valign="top">
 
 ### 🔹 Viraasat – Digital Legacy Platform
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge)](https://viraasat-digital-legacy.vercel.app/)
 
 A secure digital legacy management platform enabling document vaulting, nominee assignment, will management, verification workflows, and legacy message scheduling.
 
@@ -155,7 +159,7 @@ A secure digital legacy management platform enabling document vaulting, nominee 
 
 ### 🔹 CareerMitra – Full Stack Job Portal
 
-🌐 **Live Demo:** https://career-mitra-job.vercel.app/
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge)](https://career-mitra-job.vercel.app/)
 
 A full-stack job portal aggregating Government and Private sector opportunities with advanced filtering, admin dashboard, results, admit cards, syllabus, and answer key management.
 
@@ -171,7 +175,6 @@ A full-stack job portal aggregating Government and Private sector opportunities 
 </table>
 
 ---
-
 
 ---
 
