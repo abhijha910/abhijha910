@@ -3,7 +3,8 @@
 # 👋 Hi there, I'm Abhyanand Jha
 
 ### 🎓 B.Tech in Computer Science & Engineering  
-### 💼 Software Developer | Java | Python | React | Salesforce  
+### 💼 💼 Software Engineer @ Aindra Systems
+### ⚡ Full Stack Developer | AI Engineer
 ### 🌱 Currently learning: Backend Development & Cloud  
 ### 📍 From Bangalore, Karnataka | Based in India
 
@@ -30,10 +31,10 @@
 class AbhyanandJha:
     def __init__(self):
         self.name = "Abhyanand Jha"
-        self.role = "Software Developer"
+        self.role = "Software Engineer"
         self.location = "Bangalore, Karnataka, India"
         self.education = "B.Tech in Computer Science & Engineering"
-        self.current_learning = ["Backend Development", "Cloud Technologies"]
+        self.current_learning = ["AI Agents","System Design","Cloud & Scalable Architectures"]
         
     def skills(self):
         return [
@@ -44,8 +45,10 @@ class AbhyanandJha:
     
     def experience(self):
         return {
-            "GrapplTech": "Internship",
-            "Masai School": "Internship"
+            "Aindra Systems": "Software Engineer",
+            "NATS": "Software Development Engineer Trainee",
+            "GrapplTech": "Software Development Engineer Intern",
+            "Salesforce Developer": "Smart Internz"
         }
     
     def achievements(self):
@@ -214,18 +217,6 @@ A full-stack job portal aggregating Government and Private sector opportunities 
 ![GitHub commit activity](https://github-readme-activity-graph.vercel.app/graph?username=abhijha910&theme=tokyo-night&hide_border=true&area=true&color=00D9FF&line=00D9FF&point=00D9FF&bg_color=0D1117)
 
 </div>
-
-</div>
-
-## 📈 Coding Activity
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=abhijha910\&label=Profile%20Views\&color=0e75b6\&style=for-the-badge)
-
-![Followers](https://img.shields.io/github/followers/abhijha910?label=Followers\&style=for-the-badge)
-
-![Stars](https://img.shields.io/github/stars/abhijha910?affiliations=OWNER%2CCOLLABORATOR\&style=for-the-badge)
 
 </div>
 
