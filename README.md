@@ -106,11 +106,13 @@ class AbhyanandJha:
 
 ---
 
+### 💼 Full-Stack Applications
+
 ## 🚀 Featured Projects
 
 <div align="center">
 
-### 💼 Full-Stack Applications
+### 💼 Production-Ready Full Stack & AI Applications
 
 </div>
 
@@ -118,78 +120,58 @@ class AbhyanandJha:
 <tr>
 <td width="50%" valign="top">
 
-### 🔹 Job Portal (MERN Stack)
-[![Job Portal](https://img.shields.io/badge/🔗_View_Project-00D9FF?style=for-the-badge&logo=github)](https://github.com/abhijha910/Job-Portal-Main)
+### 🔹 AI Life Admin Assistant
 
-A full-stack job application portal that allows companies to register, verify via email, post jobs, and send email updates to candidates.
+A production-ready AI-powered personal productivity platform that processes emails and documents, extracts tasks, predicts schedules, and generates personalized daily action plans.
 
-**Tech Stack:** React, Node.js, Express, MongoDB
+**Tech Stack:** FastAPI, React, PostgreSQL, Redis, Ollama, spaCy, Docker
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🔹 Product Listing Interface
-[![Product Listing](https://img.shields.io/badge/🔗_View_Project-00D9FF?style=for-the-badge&logo=github)](https://github.com/abhijha910/Product_Listing_Assignment_Abhyanand_Jha)
+### 🔹 Viraasat – Digital Legacy Platform
 
-A responsive product listing UI built using Next.js, React, and Tailwind CSS with clean, minimal design.
+A secure digital legacy management platform enabling document vaulting, nominee assignment, will management, verification workflows, and legacy message scheduling.
 
-**Tech Stack:** Next.js, React, Tailwind CSS
+**Tech Stack:** React, NestJS, PostgreSQL, Prisma, Docker
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square\&logo=prisma\&logoColor=white)
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
 
-### 🔹 Personalized Itinerary Generator
-[![Itinerary Generator](https://img.shields.io/badge/🔗_View_Project-00D9FF?style=for-the-badge&logo=github)](https://github.com/abhijha910/Personalized-Itinerary-Generator)
-
-Generates a customized travel itinerary based on user preferences using React and external APIs.
-
-**Tech Stack:** React, REST APIs
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔹 Weather Monitoring System
-[![Weather System](https://img.shields.io/badge/🔗_View_Project-00D9FF?style=for-the-badge&logo=github)](https://github.com/abhijha910/Weather-Monitoring-System)
-
-A weather data dashboard using real-time API integration for live temperature and forecast display.
-
-**Tech Stack:** React, Weather APIs
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![API](https://img.shields.io/badge/API-FF6B6B?style=flat-square&logo=api&logoColor=white)
-
-</td>
-</tr>
 <tr>
 <td colspan="2" width="100%" valign="top">
 
-### 🔹 Snake Game (Java)
-[![Snake Game](https://img.shields.io/badge/🔗_View_Project-00D9FF?style=for-the-badge&logo=github)](https://github.com/abhijha910/Snake-Game-)
+### 🔹 CareerMitra – Full Stack Job Portal
 
-A classic Snake game built using Java and Swing for practicing basic OOP and game logic.
+🌐 **Live Demo:** https://career-mitra-job.vercel.app/
 
-**Tech Stack:** Java, Swing
+A full-stack job portal aggregating Government and Private sector opportunities with advanced filtering, admin dashboard, results, admit cards, syllabus, and answer key management.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing-007396?style=flat-square&logo=java&logoColor=white)
+**Tech Stack:** React, Spring Boot, PostgreSQL, TypeScript, Tailwind CSS
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
 
 </td>
 </tr>
 </table>
+
+---
+
 
 ---
 
