@@ -109,8 +109,6 @@ class AbhyanandJha:
 
 ---
 
-### 💼 Full-Stack Applications
-
 ## 🚀 Featured Projects
 
 <div align="center">
